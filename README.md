@@ -18,3 +18,13 @@ source env/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
 ```
+# Seach project
+
+```sh
+git clone
+cd Search-books
+python3 -m venv search-env
+source env/bin/activate
+pip3 install -r requirements.txt
+python3 main.py
+```
